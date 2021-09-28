@@ -1,2 +1,2 @@
-# yurtkay-tsistemi
+# Yurt kayit Sistemi
 Yurtlar için yapılmış bir aplikasyon
